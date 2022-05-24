@@ -1,0 +1,81 @@
+[
+    {
+        "__Unidade 5__": "Faculdade QI // Aluno: Rafael da Silva Santos // RA: 05202198155 // Polo: Rio Grande - RS // Curso: Sistemas para Internet",
+        
+        "Cliente" :
+        [
+            {
+                "id" : 1,
+                "nome" : "Rodrigo",
+                "sobrenome" : "Figueira",
+                "dtNascimento" : "1974-10-07",
+                "tipoContato" : 
+                [
+                    {
+                        "id" : 1,
+                        "email" : 
+                        [
+                            {
+                                "P":[null],
+                                "C" :["rodrigo.figueira@qi.edu.br"],
+                                "A" :[null]
+
+                            }
+                        ]
+                    },
+                    {    
+                        "id" : 2,
+                        "celular" :
+                        [
+                            {
+                                "P":[null],
+                                "C" :["51984722232"],
+                                "A" :[null]
+
+                            } 
+                        ]
+                    }
+                ]
+            },
+            {
+                "id" : 2,
+                "nome" : "Maria",
+                "sobrenome" : "Silva",
+                "dtNascimento" : "1988-10-12",
+                "tipoContato" : 
+                [
+                    {
+                        "id" : 1,
+                        "email" : 
+                        [
+                            {
+                                "P":["msilva@gmail.com"],
+                                "C" :[null],
+                                "A" :[null]
+
+                            }
+                        ]
+                    },
+                    {    
+                        "id" : 2,
+                        "celular" :
+                        [
+                            {
+                                "P":[null],
+                                "C" :[null],
+                                "A" :[null]
+
+                            } 
+                        ]
+                    }
+                ]
+            }
+
+
+
+        ]
+
+    }
+
+
+]

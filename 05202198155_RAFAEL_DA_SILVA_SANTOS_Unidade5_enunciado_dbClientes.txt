@@ -1,0 +1,29 @@
+Represente uma estrutura de tabelas e registros de um banco relacional em uma representação de documentos no formato JSON. Seguem as tabelas relacionais:
+
+Cliente
+  
+  id   nome        sobrenome        dtNascimento 
+
+  1    Rodrigo      Figueira          07/10/1974
+
+   2   Maria        Silva           12/10/1988
+
+TipoContato
+
+        id   descricao  
+
+        1     email     
+
+        2     celular   
+
+Cliente_contato
+
+  id    id_cliente    id_tipoContato   valor(tipo)      contato
+
+   1       1                 1              C        rodrigo.figueira@qi.edu.br   
+
+   2       1                 2              C        51984722232 
+
+   3       2                 1              P        msilva@gmail.com
+
+   tipos: P, C, A

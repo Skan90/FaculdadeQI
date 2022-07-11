@@ -3,10 +3,22 @@ body {
     
 }
 
-/*body img {
+body img {
     width: 500px;
     height: 313px;
-}*/
+}
+
+#centro-distribuicao img{
+    width: 900px;
+    height: 507px;
+}
+
+#familia-pelho img{
+
+    width: 450px;
+    height: 577px;
+}
+
 
 footer{
     display: grid;

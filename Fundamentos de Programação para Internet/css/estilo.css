@@ -1,0 +1,22 @@
+body {
+    background: #f5e8f4;
+    
+}
+
+/*body img {
+    width: 500px;
+    height: 313px;
+}*/
+
+footer{
+    display: grid;
+    justify-self: center;
+    grid-template-columns: 1fr;
+    gap: 20px;
+
+}
+
+footer img {
+    width: 300px;
+    height: 188px;
+}
